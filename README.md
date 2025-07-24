@@ -23,6 +23,6 @@ Este proyecto es una aplicación web simple que permite agregar nombres a una li
    
 ## Autor
 
-Desarrollado por Juan Saul Pereyra Acedo, alumno de Alura Latam.
+Desarrollado por Juan Saul Pereyra Acedo.
 
 ¡Gracias por revisar mi proyecto!
